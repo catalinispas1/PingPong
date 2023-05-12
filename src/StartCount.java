@@ -1,7 +1,4 @@
-package zzPingPong;
-
 import java.awt.*;
-
 public class StartCount {
     private GamePanel gamePanel;
     static int countStart = 3;

@@ -1,5 +1,3 @@
-package zzPingPong;
-
 import java.awt.*;
 public class Ball extends Thread  {
     private GamePanel gamePanel;
@@ -67,4 +65,3 @@ public class Ball extends Thread  {
         }
     }
 }
-

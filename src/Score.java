@@ -1,4 +1,3 @@
-package zzPingPong;
 import java.awt.*;
 public class Score{
     static int scorePaddle1 = 0;

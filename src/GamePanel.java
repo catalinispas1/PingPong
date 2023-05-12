@@ -1,5 +1,3 @@
-package zzPingPong;
-
 import javax.swing.*;
 import java.awt.*;
 public class GamePanel extends JPanel {
@@ -38,4 +36,3 @@ public class GamePanel extends JPanel {
         if(StartCount.countStart > 0) startCount.draw(g);
     }
 }
-
