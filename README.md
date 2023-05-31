@@ -1,5 +1,5 @@
 
-## Ping Pong Game
+# Ping Pong Game
 
 This is a simple implementation of the classic Ping Pong game using Java Swing. The game features two paddles controlled by players, a ball that bounces between the paddles, and a score counter. The objective of the game is for a player to reach a score of 11 points to win.
 
