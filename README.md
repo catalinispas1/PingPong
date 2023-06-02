@@ -1,5 +1,6 @@
-
 # Ping Pong Game
+
+https://github.com/catalinispas1/PingPong/assets/129887780/b0106671-23a2-4673-aaca-0becd28fc17a
 
 This is a simple implementation of the classic Ping Pong game using Java Swing. The game features two paddles controlled by players, a ball that bounces between the paddles, and a score counter. The objective of the game is for a player to reach a score of 11 points to win.
 
